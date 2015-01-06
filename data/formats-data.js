@@ -5326,5 +5326,10 @@ exports.BattleFormatsData = {
 		randomBattleMoves: ["aurasphere","darkpulse","taunt","painsplit","substitute","hiddenpowerice","vacuumwave"],
 		isNonstandard: true,
 		tier: "CAP"
+	},
+	ghosteon: {
+		randomBattleMoves: ["shadowball","earthpower","darkpulse","destinybond","flamethrower","substitute","psychic","thunderbolt"],
+		unobtainableShiny: true,
+		tier: "CAP"
 	}
 };
